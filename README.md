@@ -1,7 +1,6 @@
 # KTS_Open_Source
 
 ![alt text](https://github.com/TeknoBeek/KTS_Open_Source/blob/main/Resimler/20210129_171540.jpg)
-ÖNSÖZ
 
 # Kovan Takip Sistemi Açık Kaynak Dosyaları
 
@@ -87,6 +86,8 @@ Elektronik kısmına ait liste sitede bulunmaktadır.
 
 Kutu seçimi isteğe bağlı olmakla beraber açık kaynaktaki kutu TR'deki bir firmadan temin edilebilir.
 
+![alt text](https://github.com/TeknoBeek/KTS_Open_Source/blob/main/Resimler/3d_things.jpg)
+
 Plastik parçalar özel üretim olduğu için muhtemelen bu projenin en zor bulunacak bölümünü oluşturuyor.
 
 3D çizim dosyaları thingiverse hesabımdan indirilip 3D yazıcıda yazdırılabilir.
@@ -106,6 +107,8 @@ bu konuda da yardımcı olabilirim.
 Plastik Altlık kullanılacak ise kullanılacak altlığın modeli sitede yazmaktadır.
 
 Tüm 3D plastik parçalar bu model altlığa göredir.
+
+![alt text](https://github.com/TeknoBeek/KTS_Open_Source/blob/main/Resimler/taban_001.jpg)
 
 Altlık kullanılmayıp onun yerine bir platform kullanılacaksa bununla ilgili de 3D çizimler ayrıca verilmiştir.
 
