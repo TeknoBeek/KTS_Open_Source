@@ -5,6 +5,7 @@
  - Sıcaklık ölçümü 
  - Sıcaklık/nem ölçümü
  - Dara alma
+ - YAZILIM GÜNCELLEME
 
 # KTS FULL Sürüm
  LCD üzerinden:
@@ -19,4 +20,6 @@
   - Cep telefonudan CANLI veri takibi
   - Hem cihaz üzerinden hem cep telefonundan cihaz AYARLARINA ERİŞİM. 
   - Modül ekleyerek ALARM amaçlı kullanım
+  - Ağ üzerinden YAZILIM GÜNCELLEME
+
   
