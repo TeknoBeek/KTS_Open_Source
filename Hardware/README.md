@@ -16,4 +16,6 @@ gerekli gerber dosyaları da buradadır.
 Ben bu dosyalar ile Çin üzerinden bir firma ile PCB yaptırdım. 
 Elimde fazla olduğu takdirde PCB temini konusunda da yardımcı olabilirim. 
 
+Bu dizindeki BOM dosyası Eagle CAM'in kendi çıkardığı dosyadır. 
+Daha detaylı bilgiye PDF dizinindeki malzemeler dosyasından ulaşabilirsiniz. 
 
