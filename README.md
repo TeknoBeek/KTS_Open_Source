@@ -9,23 +9,17 @@ Yazılım kısmında ise cihazın TEMEL ÖZELLİKLERİNİ kullanabileceğiniz bi
 
 Profesyonel ve TAM SÜRÜME ileride küçük bir ücret mukabili geçilebilecektir.
 
-KTS piyasada hazır olarak kolayca bulunabilecek modüller kullanılarak geliştirildi. Yani sonuçta AMATÖR bir cihaz olacak.
+KTS piyasada hazır olarak kolayca bulunabilecek modüller kullanılarak geliştirildi. 
+
+Yani sonuçta AMATÖR bir cihaz olacak.
 
 Bu yüzden de TR'de ve dünyada muhtemelen en ucuza mal edilebilecek bir veri kaydedici olacaktır.
 
-AMATÖR bir cihaz olmasına rağmen kullanılacak alan için profesyonele yakın bir çözüm sunmaktadır. Ve 5 yıla aşkın saha kullanımında da gayet yeterli olduğunu kanıtlamıştır.
+AMATÖR bir cihaz olmasına rağmen kullanılacak alan için profesyonele yakın bir çözüm sunmaktadır. 
 
-Biraz da proje geliştiricisi bendeniz hakkında konuşayım:
+Ve 5 yıla aşkın saha kullanımında da gayet yeterli olduğunu kanıtlamıştır.
 
-Ben çocukluktan beri elektroniği hobi amaçlı ve amatör düzeyde yapmaktayım.
-
-Gerek donanım gerekse yazılım konusunda formal bir eğitimim olmadı.
-
-Bu konuda kendi kendimi yetiştirdim.
-
-Fakat yine de her iki alanda da çok yetersiz olduğum bir gerçek.
-
-Bu cihazın bu şartlar dahilinde geliştirildiğini unutmamanızı tavsiye ederim.
+Bu cihazın amatör şartlar dahilinde geliştirildiğini unutmamanızı tavsiye ederim.
 
 Bu yüzden doğabilecek olumsuzluklar hakkında hiç bir şekilde sorumluluk almam. 
 
@@ -37,15 +31,11 @@ nelerin takip edileceği, verilerin nasıl analiz edileceği vb. konular bu sebe
 
 6 seneyi aşkın bir süre içinde gelişe gelişe cihaz bugünkü haline evrildi.
 
-Takip edenlerin bileceği gibi kovan verilerinin takip edilebileceği bir profesyonel cihaz geçen yıllar içinde üretildi.
+KTS nedir tanıtım PDF'inde de bahsedildiği gibi bu cihaz aslında bir veri toplayıcı. 
 
-Ancak firma ile olan anlaşmazlıklar sebebiyle (özellikle fiyat konusunda) cihazı onlara bırakıp o süreçten çekildim ve yine eski kendi cihazıma döndüm.
+Arıcılık sektöründe kullanılabileceği gibi SERACILIK, SULAMA, KÜMES OTOMASYONU, EV OTOMASYONU, HAVA İSTASYONU vb. 
 
-Yani hazır modüller kullanılarak oluşturulan bir donanım ve yazılım ile bu cihaz hazırlandı.
-
-KTS nedir tanıtım PDF'inde de bahsedildiği gibi bu cihaz aslında bir veri toplayıcı. Arıcılık sektöründe kullanılabileceği gibi SERACILIK, SULAMA,
-
-KÜMES OTOMASYONU, EV OTOMASYONU, HAVA İSTASYONU vb. bir çok alanda da kullanılabilecek şekilde, modüler bir biçimde yapıldı.
+bir çok alanda da kullanılabilecek şekilde, modüler bir biçimde yapıldı.
 
 Farklı bir alanda kullanmak için ilgili modülü konnektörden ekleyip, o modulün
 
@@ -53,7 +43,7 @@ yazılımını yüklemek yeterli olacak.
 
 Bundan sonraki tüm yazılımlar bu donanım ile uyumlu olacak.
 
-İlerleyen zamanlarda www.akıllıkovan.com veya GitHub hesabı üzerinden bu yazılımlara ulaşmak mümkün olacak.
+İlerleyen zamanlarda www.akıllıkovan.com veya GitHub üzerinden bu yazılımlara ulaşmak mümkün olacak.
 
 # NASIL BİR YOL İZLENECEK
 
@@ -99,11 +89,13 @@ Plastik parçalar özel üretim olduğu için muhtemelen bu projenin en zor bulu
 
 3D çizim dosyaları thingiverse hesabımdan indirilip 3D yazıcıda yazdırılabilir.
 
-3D baskı yapan firmalar var.
+Bu hesapta da 3D klasöründe STL dosyaları bulunmaktadır.
+
+Baskı almak için Türkiye'de 3D baskı yapan firmalar var.
 
 Bu konuda ben de yardımcı olmaya çalışırım.
 
-PCB konusunda kendi yapabilecek veya birine yaptırabilecek kimseler için çizim dosyaları gitHub hesabında bulunacaktır.
+PCB konusunda kendi yapabilecek veya birine yaptırabilecek kimseler için çizim dosyaları bu hesapta bulunacaktır.
 
 Profesyonel firma üretimi olan PCB'ler (Çin) elimde fazla bulunduğu takdirde
 
@@ -114,6 +106,5 @@ Plastik Altlık kullanılacak ise kullanılacak altlığın modeli sitede yazmak
 Tüm 3D plastik parçalar bu model altlığa göredir.
 
 Altlık kullanılmayıp onun yerine bir platform kullanılacaksa bununla ilgili de 3D çizimler ayrıca verilmiştir.
-
 
 Piyasadan hazır dijital kantar kullanımı ile ilgili bilgi notu yakında paylaşılacaktır.
