@@ -1,9 +1,6 @@
-# KTS_Open_Source
+# Etiketler
 
 ![alt text](https://github.com/TeknoBeek/KTS_Open_Source/blob/main/Resimler/20210129_171540.jpg)
-ÖNSÖZ
-
-# Etiketler
 
 Kutu üzerinde kullanılacak etiketler 
 
