@@ -1,2 +1,4 @@
-# KTS_Open_Source
- Kovan Takip Sistemi Açık Kaynak Dosyaları
+# KTS Firmware V_001 Demo
+ Kovan Takip Sistemi DEMO sürümü
+ -aaa
+ -bbb
