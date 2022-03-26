@@ -1,5 +1,9 @@
 # KTS PCB 
 
+Güncelleme: 
+V_002 yüklendi. SE-222 Kodlu kutuya uygun olarak dizayn edildi. 
+V_002 klasöründe gerber dosyaları mevcut. 
+-------------------------------------------------------------
 Önemli not ! 
 
 Donanım ve yazılım konusunda formal bir eğitimim yoktur. 
@@ -18,4 +22,6 @@ Elimde fazla olduğu takdirde PCB temini konusunda da yardımcı olabilirim.
 
 Bu dizindeki BOM dosyası Eagle CAM'in kendi çıkardığı dosyadır. 
 Daha detaylı bilgiye PDF dizinindeki malzemeler dosyasından ulaşabilirsiniz. 
+
+
 
