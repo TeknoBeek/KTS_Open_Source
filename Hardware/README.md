@@ -2,7 +2,7 @@
 
 Güncelleme: 
 V_002 yüklendi. SE-222 Kodlu kutuya uygun olarak dizayn edildi. 
-V_002 klasöründe gerber dosyaları mevcut. 
+V_002 klasöründe gerber dosyaları mevcut. Testleri yapıldı
 -------------------------------------------------------------
 Önemli not ! 
 
